@@ -1,4 +1,4 @@
-n8n AI Email Automation Agent
+N8N AI EMAIL AUTOMATION AGENT
 
 An AI-powered email automation workflow built using n8n, designed to categorize incoming emails and send Telegram notifications for approval-based actions.
 
